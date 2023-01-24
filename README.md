@@ -1,41 +1,149 @@
-### Hi there 👋
 
-<!--
-**rajato1209/rajato1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="javascript" width="100%" height="350"/>
+      
+      
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Rajat Kaswan <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+      
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajato1209&label=Profile%20views&color=9130c2&style=flat" alt="Rajat Kaswan" /> </p>
+      
+   <h3 align="center">An analytical and detail-oriented aspiring
+Full Stack Web Developer. Capable of
+writing production-ready code using
+MERN stack. Passionate about coding
+and intensely interested in working in a
+product-based company.
+</h3>
+      
+   
+      
+   <p align="center" color:"red">
+     <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Rajat Kaswan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+      
 
-Here are some ideas to get you started:
+ 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rajato1209" alt="Rajat Kaswan" /> </p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Rajat Kaswan</h1>
-<h3 align="center">A motivated, ambitious full stack web developer with MERN stack expertise. Creating websites using HTML, CSS, JavaScript, React, Redux and Node.js,</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajato1209&label=Profile%20views&color=0e75b6&style=flat" alt="rajato1209" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajato1209" alt="rajato1209" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [rajato1209.github.io](rajato1209.github.io)
-
-- 📫 How to reach me **rajato1209@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajat98603201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajat98603201" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat-kaswan-8a829a110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-kaswan-8a829a110" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajato1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajato1209" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajato1209&show_icons=true&locale=en&layout=compact" alt="rajato1209" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajato1209&" alt="rajato1209" /></p>
+  
+      
+   ## 🙋‍♂️ About Me
+      
+   - 🔭 I’m currently pursuing Full Stack Web Development
+      
+   - 🌱 I’m currently learning at Masai
+      
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1ASIKLEp8LALu7U4GxPEPKyuwTNanXK-y/view?usp=share_link" target="_blank" >Resume</a>
+      
+      - 💻 Know more about me <a href="https://rajato1209.github.io" target="_blank"  >Portfolio</a>
+      
+      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
+      
+      - 📫 How to reach me *rajato1209@gmail.com*
+      
+      
+      <hr />
+      
+      
+      <h2 align="center">📱 Connect with me</h2>
+      <br />
+     <div align="center" >
+      
+     <a href="https://www.linkedin.com/in/rajat-kaswan-8a829a110/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
+      
+      <a href="https://rajato1209.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
+      
+      <a href="#" target="https://twitter.com/Rajat98603201">
+     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
+      
+      <a title="Rajat Kaswan" href="mailto:rajato1209@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
+     
+     </div>
+      
+      <hr />
+      
+      
+      <h2 align="center">🚀 Languages and Tools:</h2>
+      <br/>
+      <div align="center">
+       
+       <div align="center"><h3 align="center">Frontend</h3>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+      <img src="https://img.shields.io/badge/DOM-007FFF?style=for-the-badge&logo=DOM&logoColor=white"  align="center" alt="material-ui"/>
+      <br/>
+      <br/>
+        <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+        <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+        
+      </div>
+       <br/>
+        <div align="center"><h3 align="center">Backend</h3> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+       </div>
+        
+        <div align="center"><h3 align="center">Tools</h3> 
+         <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+      <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+      <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+         <br/>
+      <br/>
+         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+       </div>
+      </div>
+      
+      <br/>
+       <br/>
+      <br/>
+      <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
+      
+      <br />
+      <br />
+      <br/>
+      
+      
+      
+      <br/>
+      
+      
+      <hr />
+     
+      <h2 align="center">📊 My Github Stats</h2>
+         <br/>   
+           <p align="center">      
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajato1209&show_icons=true&locale=en&layout=compact" alt="rajato1209" />
+            </p>     
+           <br/>
+         <p align="center">
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajat Kaswan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajato1209&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        </p>                                                                                                                                              
+      
+        <br/>
+        <br/>
+           <p align="center">                                                                                                 
+          <img alt="raghuveer Top Languages" src="https://github-readme-stats.vercel.app/api?username=rajato1209&hide=contribs"/>
+          </p>                                                                 
+       <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+      
+      
+      <br/>
+      <br/>
+      
+     
+      <br/>
+      <br/>
+      <br/>
