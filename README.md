@@ -36,7 +36,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1ASIKLEp8LALu7U4GxPEPKyuwTNanXK-y/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://rajato1209.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://rajato1209.github.io/" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
